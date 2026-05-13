@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/rongeen-shohor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Rongeen Shohor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rongeen-shohor/) |
+| **Get License** | [Get a Licensing Quote for Rongeen Shohor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rongeen-shohor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক নেশায় কাঁপে আজ এই রাত
+> তোমার উষ্ণ ছোঁয়ায় হারাই আমার জাত
+> চোখের গভীরে খোঁজো মাতাল করা প্রেম
+> হৃদয় জুড়ে আঁকো রঙিন শহর ফ্রেম
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `53ee71c376500d1267bcb3e6162319815353d230bef31b6f587286926796bc16` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

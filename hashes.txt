@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rongeen Shohor
+
+This log tracks the cryptographic history and versioning for the song **Rongeen Shohor** (rongeen-shohor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T07:39:06.634571 | `v1` | `53ee71c376500d1267bcb3e6162319815353d230bef31b6f587286926796bc16` | `e0a8ca0c6f58cb3c04864ec0f5d45f83b1eed316ac89fa8427a98c44c254dc31` | `2026-05-13_rongeen-shohor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
